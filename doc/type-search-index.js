@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Reversi"},{"p":"customExceptions","l":"ReversiCantPlaceException"},{"p":"controller","l":"ReversiController"},{"p":"model","l":"ReversiModel"},{"p":"tests","l":"ReversiTests"},{"p":"view","l":"ReversiView"}]
