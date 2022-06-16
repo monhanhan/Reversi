@@ -9,7 +9,7 @@ import model.ReversiModel;
 
 /**
  * 
- * @author Ryan Garcia
+ * @author Ryan Munin
  * 
  *         purpose: This is the controller for the Reversi game. It takes input
  *         from the view and returns information to it. It also modifies the
