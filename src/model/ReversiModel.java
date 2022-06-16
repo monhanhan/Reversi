@@ -2,7 +2,7 @@ package model;
 
 /**
  * 
- * @author Ryan Garcia
+ * @author Ryan Munin
  * 
  *         This is the model for my reversi board. It is only ever called by the
  *         controller, or by testers. The board is represented as an 8x8
