@@ -2,7 +2,7 @@ package customExceptions;
 
 /**
  * 
- * @author Ryan Garcia
+ * @author Ryan Munin
  * 
  *         This is my custom exception for the Reversi game. It doesn't really
  *         do anything on it's own except to have a fancy name. When it gets
